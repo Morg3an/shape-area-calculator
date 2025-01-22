@@ -19,7 +19,7 @@ This project was created as part of a 30-day Rust learning challenge and covers:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shape-area-calculator.git
+   git clone https://github.com/Morg3an/shape-area-calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
